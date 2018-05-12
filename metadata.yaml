@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35321'
     url: http://www.gutenberg.org/2009/agents/35321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36654#Cruisings-in-the-CascadesHunting-and-Fishing
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-07-07'
 gutenberg_type: Text
